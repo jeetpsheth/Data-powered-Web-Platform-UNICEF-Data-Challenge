@@ -1,14 +1,10 @@
 # Estimating-Poverty-Across-Borders
 
-Team members: 
-* Het Sheth
-* Shantanu Mantri
-
 ## Description
 
 -------------
 
-This is the CSE 6242 final project. We predict the HDI (Human Development Index) using social media data, immagration data, and infrastructure data. The deliveriable includes a Web App, backend service API, scripts to fetch OSM (open street map) data, and the analysis results.
+We predict the HDI (Human Development Index) using social media data, immagration data, and infrastructure data. The deliveriable includes a Web App, backend service API, scripts to fetch OSM (open street map) data, and the analysis results.
 
 ## Folder Description
 

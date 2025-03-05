@@ -1,12 +1,10 @@
 # Estimating-Poverty-Across-Borders
 
-
-
 ## Description
 
 -------------
 
-In this project we predict the HDI (Human Development Index) using social media data, immigration data, and infrastructure data. The deliverable includes a Web App, backend service API, scripts to fetch OSM (OpenStreetMap) data, and the analysis results.
+In this project, we predict the HDI (Human Development Index) using social media data, immigration data, and infrastructure data. The deliverable includes a Web App, backend service API, scripts to fetch OSM (OpenStreetMap) data, and the analysis results.
 
 ## Folder Description
 
@@ -34,7 +32,7 @@ In this project we predict the HDI (Human Development Index) using social media 
 -------------
 
 If you want to run the webapp in your local machine, please first install *npm* into your computer.
-If you are using windows, you can try out Anaconda Prompts. 
+If you are using Windows, you can try out Anaconda Prompts. 
 After the installation, please navigate to *FrontEnd* folder and run the following two commands.
 
 ```
